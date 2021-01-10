@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<page>
+    <body>
+	<referenceBlock name="breadcrumbs" remove="true" />
+	<referenceContainer name="page.top">
+		<block class="Yu\ProductBreadcrumbs\Block\Breadcrumbs" name="yu_breadcrumbs" as="yu_breadcrumbs" />
+	</referenceContainer>
+    </body>
+</page>
